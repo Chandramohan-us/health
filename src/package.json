@@ -1,0 +1,5 @@
+"homepage": "https://chandramohan.github.io/neon-chat",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
